@@ -1,7 +1,7 @@
 # Hi! I'm Katherine
 
-## About me !
+## About me 
 soy estudiante de QA
-## contac me 
+## contac me
 
 sigueme en redes
